@@ -1,3 +1,6 @@
+# First, make sure that you have installed 'react-scripts' globally, on your device.
+#If you haven't installed, just run 'npm install react-scripts' on your terminal, inside the folder where this program is extracted.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
